@@ -20,7 +20,7 @@ Python Version : 3.8
 ## How to execute the project?
 
 1. Clone this repository in your local system.
-3. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/The-Movie-Cinema/blob/master/requirements.txt) file with command `pip install -r requirements.txt' .
+3. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/The-Movie-Cinema/blob/master/requirements.txt) file with command `pip install -r requirements.txt` .
 4. Replace YOUR_API_KEY in **both** the places (line no. 23 and 43) of `static/recommend.js` file.
 5. Open your terminal/command prompt from your project directory and run the `main.py` file by executing the command `python main.py`.
 6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
